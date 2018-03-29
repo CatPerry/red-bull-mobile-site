@@ -1,0 +1,39 @@
+/* Hex colors
+red: #BB0033
+blue: #001941
+gray: #E7E6EB
+*/
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+nav {
+    height: 100px;
+    background-color: #001941;
+    margin: 0px;
+    padding: 0px;
+}
+.logo {
+    position: absolute;
+    left: 20px;
+    top: -100px;
+    margin: 0px;
+    padding: 0px;
+}
+img {
+    height: 350px;
+    width: 350px;
+}
+ul {
+    text-align: center;
+}
+li {
+    list-style-type: none;
+}
+footer {
+    height: 150px;
+    background-color: #001941;
+}
